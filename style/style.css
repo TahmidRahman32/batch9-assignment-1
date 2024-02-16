@@ -272,4 +272,14 @@ body {
    position: relative;
    right: 5px;
    border: 0px;
+   font-size: 15px;
+   color: white;
+   padding: 10px 15px;
+   background-color: red;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   border-start-start-radius: 2px;
+}
+.btn:hover {
+   background-color: deeppink;
 }
